@@ -1,0 +1,45 @@
+16:27:42.841 [main] INFO  api.test.userTests - ### User creation ###
+16:27:48.936 [main] INFO  api.test.userTests - ### User is created ###
+16:27:48.964 [main] INFO  api.test.userTests - ### User deletion ###
+16:27:49.441 [main] INFO  api.test.userTests - ### User is deleted ###
+16:27:49.448 [main] INFO  api.test.userTests - ### Reading user ###
+16:27:49.932 [main] INFO  api.test.userTests - ### User updating ###
+16:27:50.420 [main] INFO  api.test.userTests - ### User is updated ###
+16:32:09.076 [main] INFO  api.test.userTests - ### User creation ###
+16:32:14.208 [main] INFO  api.test.userTests - ### User is created ###
+16:32:14.243 [main] INFO  api.test.userTests - ### User deletion ###
+16:32:14.720 [main] INFO  api.test.userTests - ### User is deleted ###
+16:32:14.724 [main] INFO  api.test.userTests - ### Reading user ###
+16:32:15.196 [main] INFO  api.test.userTests - ### User updating ###
+16:32:15.688 [main] INFO  api.test.userTests - ### User is updated ###
+19:19:12.322 [main] INFO  api.test.userTests - ### User creation ###
+19:19:12.921 [main] INFO  api.test.userTests - ### User is created ###
+19:19:12.922 [main] INFO  api.test.userTests - ### User deletion ###
+19:19:13.357 [main] INFO  api.test.userTests - ### User is deleted ###
+19:19:13.358 [main] INFO  api.test.userTests - ### Reading user ###
+19:19:13.814 [main] INFO  api.test.userTests - ### User updating ###
+19:19:14.339 [main] INFO  api.test.userTests - ### User is updated ###
+19:22:27.125 [main] INFO  api.test.userTests - ### User creation ###
+19:22:27.660 [main] INFO  api.test.userTests - ### User is created ###
+19:22:27.662 [main] INFO  api.test.userTests - ### User deletion ###
+19:22:28.092 [main] INFO  api.test.userTests - ### User is deleted ###
+19:22:28.093 [main] INFO  api.test.userTests - ### Reading user ###
+19:22:28.518 [main] INFO  api.test.userTests - ### User is readed ###
+19:22:28.520 [main] INFO  api.test.userTests - ### User updating ###
+19:22:28.970 [main] INFO  api.test.userTests - ### User is updated ###
+19:43:39.707 [main] INFO  api.test.userTests - ### User creation ###
+19:43:44.812 [main] INFO  api.test.userTests - ### User is created ###
+19:43:44.846 [main] INFO  api.test.userTests - ### User deletion ###
+19:43:45.344 [main] INFO  api.test.userTests - ### User is deleted ###
+19:43:45.349 [main] INFO  api.test.userTests - ### Reading user ###
+19:43:45.841 [main] INFO  api.test.userTests - ### User is readed ###
+19:43:45.844 [main] INFO  api.test.userTests - ### User updating ###
+19:43:46.431 [main] INFO  api.test.userTests - ### User is updated ###
+20:05:00.481 [main] INFO  api.test.userTests - ### User creation ###
+20:05:04.749 [main] INFO  api.test.userTests - ### User is created ###
+20:05:04.836 [main] INFO  api.test.userTests - ### User deletion ###
+20:05:05.385 [main] INFO  api.test.userTests - ### User is deleted ###
+20:05:05.389 [main] INFO  api.test.userTests - ### Reading user ###
+20:05:05.824 [main] INFO  api.test.userTests - ### User is readed ###
+20:05:05.827 [main] INFO  api.test.userTests - ### User updating ###
+20:05:06.281 [main] INFO  api.test.userTests - ### User is updated ###
